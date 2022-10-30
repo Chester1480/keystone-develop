@@ -10,7 +10,7 @@
     "express-handlebars": "3.0.0",
     "handlebars": "4.0.6",
     "dotenv": "4.0.0",
-    "keystone-email": "1.0.5",
+    "keystone-email": "1.1.0",
     "async": "2.1.4"
   },
   "devDependencies": {
